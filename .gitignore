@@ -1,0 +1,26 @@
+# 编译输出
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# IDE/系统文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.opendb
+Thumbs.db
+.DS_Store
+
+# 临时/缓存
+*.log
+*.tmp
+*.pdb
+*.ilk
+*.obj
+*.pch
+ipch/
