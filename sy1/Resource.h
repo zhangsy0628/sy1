@@ -84,7 +84,8 @@
 #define IDS_FIND_TAB				302
 #define IDS_EXPLORER				305
 #define IDS_EDIT_MENU				306
-
+#define ID_PLAY                         32771
+#define ID_STOP                         32772
 // 新对象的下一组默认值
 //
 #ifdef APSTUDIO_INVOKED
